@@ -1,0 +1,7 @@
+# backups / drafts – not part of the live site
+*-v1.html
+landing*.html
+_deploy/
+_test.html
+assets/alona-logo.jpg
+assets/alona-mark.jpg
